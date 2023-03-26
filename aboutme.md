@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+subtitle: 一个间歇性喜欢精神内耗的人
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我叫陈煜。以下是我的个人介绍:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 我喜欢运动，喜欢游泳、跑步
+- 我喜欢音乐，喜欢听歌，目前在学习尤克里里
+- 我喜欢看电影，特别是在一个人冷静思考的时候
 
-What else do you need?
 
-### My story
+### 我的经历
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+2018-2022 华东师范大学 数据科学与大数据技术 本科
+2022-至今  华东师范大学 数据科学与大数据技术 研究生在读
+
+
