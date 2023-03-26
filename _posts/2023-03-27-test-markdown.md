@@ -2,7 +2,7 @@
 layout: post
 title: 自学尤克里里
 subtitle: 学了哪些歌呢
-gh-repo: daattali/beautiful-jekyll
+gh-repo: Missjust/missjustjekyll.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
