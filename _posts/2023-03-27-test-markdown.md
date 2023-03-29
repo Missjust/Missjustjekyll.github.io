@@ -16,18 +16,20 @@ comments: true
 
 ## 学习计划
 
+
 | 周数 | 任务一 | 任务二 |
 | :------ |:--- | :--- |
 | 第一周 | 学习认谱 | 学习指法 |
 | 第二周 | 学习和弦 | 联系和弦 |
 | 第三周 | 简单弹唱 | 简单指弹 |
 
+
 ## 一些喜欢的琴谱
 
-小星星：
+想见你想见你想见你：
 
-![琴谱1](/Users/chenyu/class/开源软件/beautiful-jekyll/screenshot.png)
+![琴谱1](https://img-blog.csdnimg.cn/5236830d51da40c7a589e6a4bea398b9.png#pic_center)
 
-It can also be centered!
+温柔：
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![琴谱2](https://img-blog.csdnimg.cn/33ef7d9414044c34b517ae8b4f155fbd.png#pic_center)
