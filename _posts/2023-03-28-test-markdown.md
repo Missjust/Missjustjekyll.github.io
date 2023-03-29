@@ -12,7 +12,7 @@ subtitle: 怎么搭建的呢
 
 网站首页
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210607203201807.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01pc3NqdXN0,size_16,color_FFFFFF,t_70 "shouye")
+![在这里插入图片描述](http://img-blog.csdnimg.cn/20210607203201807.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01pc3NqdXN0,size_16,color_FFFFFF,t_70 "shouye")
 
 # 一、数据库修改
 
