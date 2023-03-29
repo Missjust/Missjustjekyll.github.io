@@ -10,7 +10,7 @@ comments: true
 
 这篇博客介绍了我自学尤克里里的过程，以及一些曲谱分享。
 
-**为什么想学尤克里里**
+## 为什么想学尤克里里
 
 小时候学过琵琶，我想，同为管弦乐器，再学尤克里里应该会简单很多吧，况且琵琶太重了，不适合出去玩的时候背出去陶冶性情，而尤克里里非常轻巧，音质也很不同
 
@@ -24,20 +24,19 @@ comments: true
 | 第三周 | 简单弹唱 | 简单指弹 |
 
 
-## 一些喜欢的琴谱
+## 一些喜欢的琴谱分享
+
+![GIF]({{site.baseurl}}/assets/img/IMG_3198.PNG)
+
+![图片pic1]({{ "/assets/img/IMG_3198.PNG" | absolute_url }})
+
 
 想见你想见你想见你：
 
-
-<img src="https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3168.PNG"/>
-
-
-![琴谱1](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3168.PNG)
+![琴谱1](http://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3168.PNG "qinpu")
 
 温柔：
 
 ![琴谱2](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3198.PNG)
-
-![](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/avatar-icon.png)
 
 
