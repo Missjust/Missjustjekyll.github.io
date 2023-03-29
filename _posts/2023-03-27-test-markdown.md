@@ -28,8 +28,16 @@ comments: true
 
 想见你想见你想见你：
 
-![琴谱1](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3168.PNG "qinpu1")
+
+<img src="https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3168.PNG"/>
+
+
+![琴谱1](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3168.PNG)
 
 温柔：
 
-![琴谱2](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3198.PNG "qinpu2")
+![琴谱2](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3198.PNG)
+
+![](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/avatar-icon.png)
+
+
