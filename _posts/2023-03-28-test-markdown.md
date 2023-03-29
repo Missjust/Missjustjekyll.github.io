@@ -12,7 +12,7 @@ subtitle: 怎么搭建的呢
 
 网站首页
 
-![在这里插入图片描述](http://img-blog.csdnimg.cn/20210607203201807.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01pc3NqdXN0,size_16,color_FFFFFF,t_70 "shouye")
+![pic1]({{ "/assets/img/20210607203201807.png" | absolute_url }})
 
 # 一、数据库修改
 
@@ -42,19 +42,15 @@ CREATE TABLE logs(
 
 采用bootstrap框架的表单样式，以及bootstrapTable展示查询结果，查询结果可以分页显示，同时，从数据库的news表中查询数据时按照新闻发表时间降序排列
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210607205840306.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01pc3NqdXN0,size_16,color_FFFFFF,t_70)
-
-关键词时间热度图用echarts柱状图显示
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210607205937244.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01pc3NqdXN0,size_16,color_FFFFFF,t_70)
+![pic2]({{ "/assets/img/20210607205840306.png" | absolute_url }})
 
 # 三、爬虫数据图表显示
 
 1.下拉列表选择需要展示的图表：包括折线图、饼图、词云（echarts）
 
-2.折线图展示了新闻总数随时间变化的趋势，可以看到2021-04-07之后新闻数量猛增
+2.词云图展示了新闻关键词中出现频率较高的词汇，从图中可以看出是疫苗、中国、2021。
 
-获取新闻总数随时间变化：数据库news表查询按照发表时间统计新闻数目，并按发表时间降序排列
+绘制词云时展示了数量前500的关键词
 
 ```javascript
 router.get('/get_date_num', function (req, res) {
@@ -75,6 +71,7 @@ router.get('/get_date_num', function (req, res) {
     });
 });
 ```
+![pic3]({{ "/assets/img/20210607211003598.png" | absolute_url }})
 
 # 四、扩展功能
 
@@ -104,4 +101,4 @@ router.get('/get_date_num', function (req, res) {
 
 绘制了新闻发表数和新闻发布时间的水平条形图、关键词的词云图（展示数目最多的100个词）、来源网站新闻数的环形图、新闻发表数和新闻发布时间的垂直面积图
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210608194809448.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01pc3NqdXN0,size_16,color_FFFFFF,t_70)
+![pic4]({{ "/assets/img/20210608194809448.png" | absolute_url }})

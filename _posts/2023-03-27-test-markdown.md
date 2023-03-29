@@ -26,17 +26,15 @@ comments: true
 
 ## 一些喜欢的琴谱分享
 
-![GIF]({{site.baseurl}}/assets/img/IMG_3198.PNG)
-
-![图片pic1]({{ "/assets/img/IMG_3198.PNG" | absolute_url }})
-
+<!-- ![GIF]({{site.baseurl}}/assets/img/IMG_3198.PNG) -->
 
 想见你想见你想见你：
 
-![琴谱1](http://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3168.PNG "qinpu")
+![图片pic1]({{ "/assets/img/IMG_3168.PNG" | absolute_url }})
 
 温柔：
 
-![琴谱2](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3198.PNG)
+![图片pic2]({{ "/assets/img/IMG_3198.PNG" | absolute_url }})
+
 
 
