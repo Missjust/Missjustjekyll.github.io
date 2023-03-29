@@ -46,10 +46,10 @@ layout: page
         {% endif %}
       </a>
 
-      <p class="post-meta">
+      <!-- <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
         Posted on {{ post.date | date: date_format }}
-      </p>
+      </p> -->
 
       {% if thumbnail != "" %}
       <div class="post-image post-image-small">
@@ -73,15 +73,14 @@ layout: page
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">[详&nbsp;情]</a>
         {% endif %}
       </div>
       {% endunless %}
 
-      {% if site.feed_show_tags != false and post.tags.size > 0 %}
-      <div class="blog-tags">
+      <!-- {% if site.feed_show_tags != false and post.tags.size > 0 %} -->
+      <!-- <div class="blog-tags">
         <span>Tags:</span>
-        <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
         <ul class="d-inline list-inline" role="list">
           {% for tag in post.tags %}
           <li class="list-inline-item">
@@ -89,8 +88,8 @@ layout: page
           </li>
           {% endfor %}
         </ul>
-      </div>
-      {% endif %}
+      </div> -->
+      <!-- {% endif %} -->
 
     </article>
   </li>

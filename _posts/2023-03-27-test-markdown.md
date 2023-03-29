@@ -10,69 +10,24 @@ comments: true
 
 这篇博客介绍了我自学尤克里里的过程，以及一些曲谱分享。
 
-**Here is some bold text**
+**为什么想学尤克里里**
 
-## Here is a secondary heading
+小时候学过琵琶，我想，同为管弦乐器，再学尤克里里应该会简单很多吧，况且琵琶太重了，不适合出去玩的时候背出去陶冶性情，而尤克里里非常轻巧，音质也很不同
 
-Here's a useless table:
+## 学习计划
 
-| Number | Next number | Previous number |
+| 周数 | 任务一 | 任务二 |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| 第一周 | 学习认谱 | 学习指法 |
+| 第二周 | 学习和弦 | 联系和弦 |
+| 第三周 | 简单弹唱 | 简单指弹 |
 
+## 一些喜欢的琴谱
 
-How about a yummy crepe?
+小星星：
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![琴谱1](/Users/chenyu/class/开源软件/beautiful-jekyll/screenshot.png)
 
 It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
