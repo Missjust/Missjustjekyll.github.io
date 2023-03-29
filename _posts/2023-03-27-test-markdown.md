@@ -28,7 +28,7 @@ comments: true
 
 想见你想见你想见你：
 
-![琴谱1](http://img-blog.csdnimg.cn/5236830d51da40c7a589e6a4bea398b9.png "qinpu1")
+![琴谱1](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3168.PNG "qinpu1")
 
 温柔：
 
