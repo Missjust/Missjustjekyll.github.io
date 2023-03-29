@@ -32,4 +32,4 @@ comments: true
 
 温柔：
 
-![琴谱2](http://img-blog.csdnimg.cn/33ef7d9414044c34b517ae8b4f155fbd.png "qinpu2")
+![琴谱2](https://github.com/Missjust/missjustjekyll.github.io/blob/main/assets/img/IMG_3198.PNG "qinpu2")
